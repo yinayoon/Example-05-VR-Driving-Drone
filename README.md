@@ -5,6 +5,7 @@ Here is a sample game developed for the Hyundai Engineering & Construction Techn
 - Restart : Press the Y button on the left controller or the B button on the right controller.
 - Video URL : https://www.youtube.com/watch?v=qQnPvwk4-UQ
 - Unity Version : 2022.3.22f1
+- HMD Device : Meta Quest 2
 
 If the error below occurs, please reimport XR Interaction Toolkit > Samples > Starter Asset.
 
